@@ -1,4 +1,4 @@
-.machine/
+./machine/
 *.ipynb_checkpoints
 *.DS_Store
 *.pyc
